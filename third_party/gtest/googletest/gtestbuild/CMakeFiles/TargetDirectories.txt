@@ -1,0 +1,2 @@
+/Users/admin2/Documents/workspace/strongvelope/gtest/googletest/gtestbuild/CMakeFiles/gtest_main.dir
+/Users/admin2/Documents/workspace/strongvelope/gtest/googletest/gtestbuild/CMakeFiles/gtest.dir
